@@ -26,3 +26,5 @@ case $OPTION in
         ;;
 
 esac
+
+#controllo duplicati
